@@ -5,7 +5,7 @@
 💻 &nbsp;Front-end Júnior.\
 🎓 &nbsp;Concluindo o Bacharel em Sistemas de Informação no Instituto Federal Fluminense.\
 📘 &nbsp;Certificado pela FreeCodeCamp em API and Microservices e Responsive Web Design.\
-🔍  &nbsp;Atualmente aberto a novas oportunidades.\
+🔍 &nbsp;Atualmente aberto a novas oportunidades.\
 🌱 &nbsp;Aprendendo Design de API Rest, Redux e Material UI.\
 
 ### 🛠 &nbsp;Habilidades e ferramentas
