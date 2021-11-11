@@ -2,11 +2,11 @@
 
 ### 👨🏾‍💻 Sobre mim
 
-💻 &nbsp;Front-end Júnior.\
+💻 &nbsp;Desenvolvedor Web.\
 🎓 &nbsp;Bacharel em Sistemas de Informação no Instituto Federal Fluminense.\
 ⌨️ &nbsp;Certificado pela FreeCodeCamp em API and Microservices e Responsive Web Design.\
 🔍  &nbsp;Atualmente aberto a novas oportunidades.\
-🌱 &nbsp;Aprendendo Design de API Rest, Redux e Material UI.
+🌱 &nbsp;JavaScript avançado e Redux.
 
 ### 🛠 &nbsp;Habilidades e ferramentas
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
